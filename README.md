@@ -17,13 +17,13 @@ The primary goal of this project is to help users understand how they earn, spen
 ---
 
 ## 📌 Key Features
-- 🔹 KPI Cards for Income, Expense %, Savings %, and Net Worth
-- 🔹 Category-wise Expense Analysis (Rent, Groceries, EMIs, etc.)
-- 🔹 Savings Distribution (Mutual Funds, Emergency Fund, FD, Cash)
-- 🔹 Income vs Expense vs Savings Trend Analysis
-- 🔹 Net Worth Growth Visualization
-- 🔹 Detailed Financial Statement (Year-wise breakdown)
-- 🔹 Interactive filters (Year, Month & Year)
+🔹 KPI Cards for Income, Expense %, Savings %, and Net Worth
+🔹 Category-wise Expense Analysis (Rent, Groceries, EMIs, etc.)
+🔹 Savings Distribution (Mutual Funds, Emergency Fund, FD, Cash)
+🔹 Income vs Expense vs Savings Trend Analysis
+🔹 Net Worth Growth Visualization
+🔹 Detailed Financial Statement (Year-wise breakdown)
+🔹 Interactive filters (Year, Month & Year)
 
 ---
 
